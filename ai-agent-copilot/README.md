@@ -1,4 +1,4 @@
-# AI Agent — Support & Risk Ops Copilot (Medium→Hard)
+# AI Agent — Support & Risk Ops
 
 LLM agent that answers with sources, calls tools (CRM/search/DB), and logs actions to reduce handle time and deflect tickets.
 
